@@ -18,9 +18,9 @@ Hi 👋, I'm Nithya Subash
 
 📄 Know about my experiences [coming soon....](coming soon....)
 
-
 Connect with me:
 Languages and Tools:
+
 ![image](https://github.com/Subash-07/Subash-07/assets/157941230/a30d152b-1bee-4d96-bf0b-450b6735c378)
 
 
