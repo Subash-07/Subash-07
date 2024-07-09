@@ -18,4 +18,10 @@ Hi 👋, I'm Nithya Subash
 
 📄 Know about my experiences [coming soon....](coming soon....)
 
+Connect with me:
+Languages and Tools:
+babel bootstrap css3 express html5 javascript mongodb mysql nodejs php react redux sass
+
+
+
 
