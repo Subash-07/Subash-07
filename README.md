@@ -1,4 +1,4 @@
-Hi 👋, I'm Nithya Subash
+![image](https://github.com/Subash-07/Subash-07/assets/157941230/acce0f60-5dc2-4a1e-8a50-4d1eeeb3d379)Hi 👋, I'm Nithya Subash
 
 🔭 I’m currently working on GUVI Course Fullstack
 
@@ -18,9 +18,13 @@ Hi 👋, I'm Nithya Subash
 
 📄 Know about my experiences [coming soon....](coming soon....)
 
+
 Connect with me:
 Languages and Tools:
+
 babel bootstrap css3 express html5 javascript mongodb mysql nodejs php react redux sass
+
+
 
 
 
