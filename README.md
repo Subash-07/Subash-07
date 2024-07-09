@@ -24,7 +24,6 @@ Languages and Tools:
 ![image](https://github.com/Subash-07/Subash-07/assets/157941230/de4cef0c-3cd9-4a60-97c2-aa9bc0341bc0)
 
 
-babel bootstrap css3 express html5 javascript mongodb mysql nodejs php react redux sass
 
 
 
