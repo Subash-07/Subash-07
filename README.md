@@ -21,7 +21,7 @@ Hi 👋, I'm Nithya Subash
 
 Connect with me:
 Languages and Tools:
-![image](https://github.com/Subash-07/Subash-07/assets/157941230/de4cef0c-3cd9-4a60-97c2-aa9bc0341bc0)
+![image](https://github.com/Subash-07/Subash-07/assets/157941230/a30d152b-1bee-4d96-bf0b-450b6735c378)
 
 
 
